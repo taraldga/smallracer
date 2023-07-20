@@ -1,5 +1,4 @@
 <script lang="ts">
-    import { afterUpdate } from "svelte";
     import Timeinterval from "./timeinterval.svelte";
     export let startTime: number = 0;
     export let displayMilliseconds = true;
