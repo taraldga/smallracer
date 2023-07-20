@@ -1,7 +1,7 @@
 <script lang="ts">
   import { getRaces } from "../../util/store";
 
-//   const races = getRaces();
+  const races = getRaces();
 
 
 </script>
